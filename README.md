@@ -21,6 +21,6 @@ To execute these notebooks, the following libraries are required:
 3. Run the cells in sequential order. The CIFAR-10 dataset partitions (50,000 training images, 10,000 test images) will download automatically during the initial execution.
 
 ## Group Members
-* Rajapaksha Rajapaksha
-* [Add Teammate 1 Name]
-* [Add Teammate 2 Name]
+* Weligama Lakshika
+* Pramodya Dewmini
+* Rajapaksha
